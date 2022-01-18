@@ -8,7 +8,7 @@ let dice=Math.floor((Math.random(1,6)*(6-1+1)+1));
 console.log("Dice Number between 1 to 6:",dice);
 
 //3.Add 2 random dice number
-let dice2=Math.floor((Math.random(1,6)*(6-1+1)+1));42
+let dice2=Math.floor((Math.random(1,6)*(6-1+1)+1));
 console.log("Addition of 2 random dice number is",dice+dice2);
 
 //4.read 5 random 2 digit,find sum and avg
